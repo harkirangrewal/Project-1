@@ -1,0 +1,9 @@
+c:\users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\bin\Debug\Lesson2_Game_Rental_App.exe.config
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\bin\Debug\Lesson2_Game_Rental_App.exe
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\bin\Debug\Lesson2_Game_Rental_App.pdb
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.csprojResolveAssemblyReference.cache
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.Form_Game_Rental.resources
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.Properties.Resources.resources
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.csproj.GenerateResource.Cache
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.exe
+C:\Users\harki\documents\visual studio 2015\Projects\Lesson2_Game_Rental_App\Lesson2_Game_Rental_App\obj\Debug\Lesson2_Game_Rental_App.pdb
